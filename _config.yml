@@ -3,8 +3,8 @@ title: Xia Blog
 SEOTitle: 夏卫强的博客 | Xia Blog
 header-img: img/home-bg.jpg
 email: xia.chn@outlook.com
-description: "这里是夏卫强的个人博客"
-keyword: "游记, 随笔"
+description: "这里是夏卫强的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "随笔, 游记"
 url: "https://xiaweiqiang.cn" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-xiaohongshu_username: xiaweiqiang
+weibo_username: xiaweiqiang
 #facebook_username:  xiaweiqiang
 
 # Build settings
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "将时间嵌入文字之中"
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -87,6 +87,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-   #  { title: "乱序（Midare）", href: "http://mida.re/" },
-   # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    { title: "Kun Qian", href: "http://kunq.me" },
+    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    { title: "SmdCn", href: "http://blog.smdcn.net" },
+    { title: "JiyinYiyong", href: "http://tiye.me/" },
+    { title: "DHong Say", href: "http://dhong.co" },
+    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
