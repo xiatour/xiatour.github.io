@@ -3,7 +3,7 @@ title: Xia Blog
 SEOTitle: 夏卫强的博客 | Xia Blog
 header-img: img/home-bg.jpg
 email: xia.chn@outlook.com
-description: "这里是夏卫强的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+# description: "这里是夏卫强的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "随笔, 游记"
 url: "https://xiaweiqiang.cn" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
