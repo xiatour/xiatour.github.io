@@ -1,11 +1,15 @@
-Hello, my friends.
-
-I am Xia Weiqiang, you can call me xia for short.
-
-This is a place where I will document my work and life and share what I think.
+Pure simplicity. Absolute excellence.
 
 <br/>
 
-You can contact me at:
+Hi, I am Xia. We are destined to meet.
 
-Email: xia.chn@outlook.com
+This is an "Invisible City." 
+
+I am glad you are here; feel free to wander.
+
+<br/>
+
+Find me here: 
+
+WeChat Official Account @夏卫强
